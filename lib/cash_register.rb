@@ -12,5 +12,7 @@ class CashRegister
     self.title += amount * quantity
     quantity.times do
       items << title
+    end
+    
   
 end

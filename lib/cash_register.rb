@@ -7,3 +7,7 @@ class CashRegister
     @discount = 0
     @total = 0
   end
+  
+  
+  
+end
